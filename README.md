@@ -1,0 +1,2 @@
+# koishiDiffsingerStaticSonglist
+koishiDiffsingerStaticSonglist
